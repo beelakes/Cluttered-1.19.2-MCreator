@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/mushroomchestremade",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/mushchestremadetext",
+    "particle": "luphieclutteredmod:blocks/mushchestremadetext",
+    "0": "luphieclutteredmod:blocks/mushchestremadetext"
+  },
+  "render_type": "solid"
+}

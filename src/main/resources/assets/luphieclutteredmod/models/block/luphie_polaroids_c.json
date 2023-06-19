@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/polaroids_c",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/polaroids_c",
+    "particle": "luphieclutteredmod:blocks/polaroids_c",
+    "0": "luphieclutteredmod:blocks/polaroids_c"
+  },
+  "render_type": "cutout"
+}

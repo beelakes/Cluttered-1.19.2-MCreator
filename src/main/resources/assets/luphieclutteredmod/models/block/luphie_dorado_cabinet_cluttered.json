@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/doradocabinetwjars",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/doradocabinetwjarstext",
+    "particle": "luphieclutteredmod:blocks/doradocabinetwjarstext",
+    "2": "luphieclutteredmod:blocks/doradocabinetwjarstext"
+  },
+  "render_type": "cutout"
+}

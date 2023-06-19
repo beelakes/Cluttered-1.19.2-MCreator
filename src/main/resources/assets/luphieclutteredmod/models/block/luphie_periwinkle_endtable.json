@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/periwinkle_endtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/periwinkle_endtable",
+    "particle": "luphieclutteredmod:blocks/periwinkle_endtable",
+    "0": "luphieclutteredmod:blocks/periwinkle_endtable"
+  },
+  "render_type": "solid"
+}

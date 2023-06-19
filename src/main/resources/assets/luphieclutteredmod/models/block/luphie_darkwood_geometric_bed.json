@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/darkwoodgeometricbed",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/darkwoodgeometricbedtext",
+    "particle": "luphieclutteredmod:blocks/darkwoodgeometricbedtext",
+    "3": "luphieclutteredmod:blocks/darkwoodgeometricbedtext"
+  },
+  "render_type": "solid"
+}

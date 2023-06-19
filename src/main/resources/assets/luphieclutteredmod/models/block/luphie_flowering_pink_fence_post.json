@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "luphieclutteredmod:blocks/flowerypinkplankstext",
+    "particle": "luphieclutteredmod:blocks/flowerypinkplankstext"
+  },
+  "render_type": "solid"
+}

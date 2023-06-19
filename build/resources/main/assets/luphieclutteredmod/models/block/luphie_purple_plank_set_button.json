@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "luphieclutteredmod:blocks/purpleplankretext"
+  },
+  "render_type": "solid"
+}

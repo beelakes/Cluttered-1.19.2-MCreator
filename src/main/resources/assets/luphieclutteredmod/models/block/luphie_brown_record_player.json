@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/brownrecordplayer",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/brownrecordplayer",
+    "particle": "luphieclutteredmod:blocks/brownrecordplayer",
+    "0": "luphieclutteredmod:blocks/brownrecordplayer"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/emptygreendesk",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/emptygreendesktext",
+    "particle": "luphieclutteredmod:blocks/emptygreendesktext",
+    "0": "luphieclutteredmod:blocks/emptygreendesktext"
+  },
+  "render_type": "solid"
+}

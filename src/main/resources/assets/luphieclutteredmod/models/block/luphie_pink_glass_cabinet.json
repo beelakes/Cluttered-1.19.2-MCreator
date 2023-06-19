@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pinkglasscabinet",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pinkglasscabinettext",
+    "particle": "luphieclutteredmod:blocks/pinkglasscabinettext",
+    "0": "luphieclutteredmod:blocks/pinkglasscabinettext"
+  },
+  "render_type": "cutout"
+}

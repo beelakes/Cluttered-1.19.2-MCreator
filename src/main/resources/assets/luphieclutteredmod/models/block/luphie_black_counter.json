@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blackcounter",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/blackcountertext",
+    "particle": "luphieclutteredmod:blocks/blackcountertext",
+    "0": "luphieclutteredmod:blocks/blackcountertext"
+  },
+  "render_type": "solid"
+}

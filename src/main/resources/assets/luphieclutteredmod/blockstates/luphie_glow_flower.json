@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "luphieclutteredmod:block/luphie_glow_flower"
+    },
+    "facing=east": {
+      "model": "luphieclutteredmod:block/luphie_glow_flower",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "luphieclutteredmod:block/luphie_glow_flower",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "luphieclutteredmod:block/luphie_glow_flower",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "luphieclutteredmod:block/luphie_glow_flower",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "luphieclutteredmod:block/luphie_glow_flower",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/glow_flower",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/glow_flower",
+    "particle": "luphieclutteredmod:blocks/glow_flower",
+    "0": "luphieclutteredmod:blocks/glow_flower"
+  },
+  "render_type": "cutout"
+}

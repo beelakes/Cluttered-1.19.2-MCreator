@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/bunnyplushie",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pastelplushstarboundretext",
+    "particle": "luphieclutteredmod:blocks/pastelplushstarboundretext",
+    "0": "luphieclutteredmod:blocks/pastelplushstarboundretext"
+  },
+  "render_type": "solid"
+}

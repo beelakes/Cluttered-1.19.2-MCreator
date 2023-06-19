@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/sewingtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/sewingtabletext",
+    "particle": "luphieclutteredmod:blocks/sewingtabletext",
+    "0": "luphieclutteredmod:blocks/sewingtabletext"
+  },
+  "render_type": "solid"
+}

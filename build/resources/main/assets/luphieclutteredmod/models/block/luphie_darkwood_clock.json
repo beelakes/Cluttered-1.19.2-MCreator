@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/darkwoodclock",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/darkwoodclock",
+    "particle": "luphieclutteredmod:blocks/darkwoodclock",
+    "0": "luphieclutteredmod:blocks/darkwoodclock"
+  },
+  "render_type": "cutout"
+}

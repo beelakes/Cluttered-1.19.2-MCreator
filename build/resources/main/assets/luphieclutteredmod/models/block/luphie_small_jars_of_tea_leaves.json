@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/smallfilledjaroftealeavesa",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/smallfilledjaroftealeaves",
+    "particle": "luphieclutteredmod:blocks/smallfilledjaroftealeaves",
+    "0": "luphieclutteredmod:blocks/smallfilledjaroftealeaves"
+  },
+  "render_type": "cutout"
+}

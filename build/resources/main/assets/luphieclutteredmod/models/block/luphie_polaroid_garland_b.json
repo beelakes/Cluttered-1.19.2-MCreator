@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/polaroid_garland_b",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/polaroid_garland_b",
+    "particle": "luphieclutteredmod:blocks/polaroid_garland_b",
+    "0": "luphieclutteredmod:blocks/polaroid_garland_b"
+  },
+  "render_type": "cutout"
+}

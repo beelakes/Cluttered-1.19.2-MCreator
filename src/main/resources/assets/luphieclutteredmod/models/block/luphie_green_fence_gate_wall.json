@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "luphieclutteredmod:blocks/greenplanksretext"
+  },
+  "render_type": "solid"
+}

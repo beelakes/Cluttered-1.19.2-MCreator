@@ -1,0 +1,10 @@
+{
+  "parent": "luphieclutteredmod:custom/jamjarcube",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/jamjarcube",
+    "particle": "luphieclutteredmod:blocks/jamjarcube",
+    "missing": "luphieclutteredmod:blocks/jamjarcube",
+    "9": "luphieclutteredmod:blocks/jamjarcube"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/whiteleftoutercornercounter",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/whiteleftoutercornercountertext",
+    "particle": "luphieclutteredmod:blocks/whiteleftoutercornercountertext",
+    "10": "luphieclutteredmod:blocks/whiteleftoutercornercountertext"
+  },
+  "render_type": "solid"
+}

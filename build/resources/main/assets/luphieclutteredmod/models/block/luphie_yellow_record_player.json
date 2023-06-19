@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowrecordplayer",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/yellowrecordplayertext",
+    "particle": "luphieclutteredmod:blocks/yellowrecordplayertext",
+    "1": "luphieclutteredmod:blocks/yellowrecordplayertext"
+  },
+  "render_type": "cutout"
+}

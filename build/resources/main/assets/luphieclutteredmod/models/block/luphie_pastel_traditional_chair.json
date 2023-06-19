@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pasteltraditionalchair",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pasteltraditionalchair",
+    "particle": "luphieclutteredmod:blocks/pasteltraditionalchair",
+    "0": "luphieclutteredmod:blocks/pasteltraditionalchair"
+  },
+  "render_type": "cutout"
+}

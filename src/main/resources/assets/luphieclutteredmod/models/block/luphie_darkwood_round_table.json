@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/darkwoodroundtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/darkwoodroundtabletext",
+    "particle": "luphieclutteredmod:blocks/darkwoodroundtabletext",
+    "0": "luphieclutteredmod:blocks/darkwoodroundtabletext"
+  },
+  "render_type": "solid"
+}

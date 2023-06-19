@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/imperialtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/imperialtabletext",
+    "particle": "luphieclutteredmod:blocks/imperialtabletext",
+    "1": "luphieclutteredmod:blocks/imperialtabletext"
+  },
+  "render_type": "cutout"
+}

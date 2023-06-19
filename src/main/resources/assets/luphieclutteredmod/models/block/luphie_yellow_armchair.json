@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowarmchair",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/yellowyarmchair",
+    "particle": "luphieclutteredmod:blocks/yellowyarmchair",
+    "0": "luphieclutteredmod:blocks/yellowyarmchair"
+  },
+  "render_type": "solid"
+}

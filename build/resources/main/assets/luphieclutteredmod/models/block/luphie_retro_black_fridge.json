@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blackretrofridge",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/blackretrofridge",
+    "particle": "luphieclutteredmod:blocks/blackretrofridge",
+    "0": "luphieclutteredmod:blocks/blackretrofridge"
+  },
+  "render_type": "solid"
+}

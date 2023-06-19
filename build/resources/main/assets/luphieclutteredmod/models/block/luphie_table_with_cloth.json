@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/table_w_cloth",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/tablewithcloth",
+    "particle": "luphieclutteredmod:blocks/tablewithcloth",
+    "0": "luphieclutteredmod:blocks/tablewithcloth"
+  },
+  "render_type": "solid"
+}

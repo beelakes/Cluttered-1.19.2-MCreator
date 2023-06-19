@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "luphieclutteredmod:blocks/purpleplankretext",
+    "particle": "luphieclutteredmod:blocks/purpleplankretext"
+  },
+  "render_type": "solid"
+}

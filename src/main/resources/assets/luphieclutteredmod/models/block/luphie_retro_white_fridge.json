@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blueretrofridge",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/retrobluefridgetext",
+    "particle": "luphieclutteredmod:blocks/retrobluefridgetext",
+    "0": "luphieclutteredmod:blocks/retrobluefridgetext"
+  },
+  "render_type": "solid"
+}

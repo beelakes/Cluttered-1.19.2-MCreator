@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/smallstackablebookstack",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/smallstackablebookstack",
+    "particle": "luphieclutteredmod:blocks/smallstackablebookstack",
+    "1": "luphieclutteredmod:blocks/smallstackablebookstack"
+  },
+  "render_type": "solid"
+}

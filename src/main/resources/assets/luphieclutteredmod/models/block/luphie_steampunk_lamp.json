@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/steampunk_lamp",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/steampunk_lamp_anim",
+    "particle": "luphieclutteredmod:blocks/steampunk_lamp_anim",
+    "4": "luphieclutteredmod:blocks/steampunk_lamp_anim"
+  },
+  "render_type": "solid"
+}

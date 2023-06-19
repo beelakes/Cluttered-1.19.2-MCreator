@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:blocks/yellowplanks",
+    "up": "luphieclutteredmod:blocks/yellowplanks",
+    "north": "luphieclutteredmod:blocks/yellowbookshelf",
+    "east": "luphieclutteredmod:blocks/yellowbookshelf",
+    "south": "luphieclutteredmod:blocks/yellowbookshelf",
+    "west": "luphieclutteredmod:blocks/yellowbookshelf",
+    "particle": "luphieclutteredmod:blocks/yellowplanks"
+  },
+  "render_type": "solid"
+}

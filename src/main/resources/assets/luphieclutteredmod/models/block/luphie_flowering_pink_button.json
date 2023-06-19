@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "luphieclutteredmod:blocks/flowerypinkplankstext"
+  },
+  "render_type": "solid"
+}

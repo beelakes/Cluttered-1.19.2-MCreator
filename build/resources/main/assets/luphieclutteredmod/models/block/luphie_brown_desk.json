@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/emptybrowndesk",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/emptybrowndesktext",
+    "particle": "luphieclutteredmod:blocks/emptybrowndesktext",
+    "1": "luphieclutteredmod:blocks/emptybrowndesktext"
+  },
+  "render_type": "solid"
+}

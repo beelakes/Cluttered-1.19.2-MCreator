@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/sweetheartkitchenbakingset1",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/sweetheartkitchenbakingset1text",
+    "particle": "luphieclutteredmod:blocks/sweetheartkitchenbakingset1text",
+    "1": "luphieclutteredmod:blocks/sweetheartkitchenbakingset1text"
+  },
+  "render_type": "cutout"
+}

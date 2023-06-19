@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/lunarobservatoryjars",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/lunarobservatoryjarsretext",
+    "particle": "luphieclutteredmod:blocks/lunarobservatoryjarsretext",
+    "0": "luphieclutteredmod:blocks/lunarobservatoryjarsretext"
+  },
+  "render_type": "solid"
+}

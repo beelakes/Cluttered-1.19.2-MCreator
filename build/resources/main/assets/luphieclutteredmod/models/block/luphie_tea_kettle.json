@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/flowerteakettle",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/teakettletext",
+    "particle": "luphieclutteredmod:blocks/teakettletext",
+    "2": "luphieclutteredmod:blocks/teakettletext"
+  },
+  "render_type": "cutout"
+}

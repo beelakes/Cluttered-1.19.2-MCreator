@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pinkrecordplayer",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pinkrecordplayertext",
+    "particle": "luphieclutteredmod:blocks/pinkrecordplayertext",
+    "0": "luphieclutteredmod:blocks/pinkrecordplayertext"
+  },
+  "render_type": "cutout"
+}

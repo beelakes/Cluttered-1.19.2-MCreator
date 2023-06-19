@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/darkwoodsouthernflairbed",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/darkwoodsouthernflairbedtext",
+    "particle": "luphieclutteredmod:blocks/darkwoodsouthernflairbedtext",
+    "3": "luphieclutteredmod:blocks/darkwoodsouthernflairbedtext"
+  },
+  "render_type": "solid"
+}

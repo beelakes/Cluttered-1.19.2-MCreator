@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "luphieclutteredmod:items/blueglowingdoor"
+  },
+  "render_type": "translucent"
+}

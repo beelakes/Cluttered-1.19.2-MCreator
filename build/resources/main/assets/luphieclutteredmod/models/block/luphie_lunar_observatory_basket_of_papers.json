@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/lunarobservatorybasketofpapers",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/lunarobservatorybasketofpapers",
+    "particle": "luphieclutteredmod:blocks/lunarobservatorybasketofpapers",
+    "0": "luphieclutteredmod:blocks/lunarobservatorybasketofpapers"
+  },
+  "render_type": "cutout"
+}

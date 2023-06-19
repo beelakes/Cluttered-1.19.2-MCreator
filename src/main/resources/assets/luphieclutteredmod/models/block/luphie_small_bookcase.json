@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/smallbookcase",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/smallbookcasetext",
+    "particle": "luphieclutteredmod:blocks/smallbookcasetext",
+    "2": "luphieclutteredmod:blocks/smallbookcasetext"
+  },
+  "render_type": "solid"
+}

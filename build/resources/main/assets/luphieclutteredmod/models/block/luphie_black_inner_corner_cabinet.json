@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blackinnercornercabinet",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/blackinnercornercabinettext",
+    "particle": "luphieclutteredmod:blocks/blackinnercornercabinettext",
+    "0": "luphieclutteredmod:blocks/blackinnercornercabinettext"
+  },
+  "render_type": "cutout"
+}

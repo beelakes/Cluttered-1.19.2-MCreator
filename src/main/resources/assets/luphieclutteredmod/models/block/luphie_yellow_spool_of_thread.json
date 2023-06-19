@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowspoolofthread",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/yellowspoolofthreadtext",
+    "particle": "luphieclutteredmod:blocks/yellowspoolofthreadtext",
+    "0": "luphieclutteredmod:blocks/yellowspoolofthreadtext"
+  },
+  "render_type": "cutout"
+}

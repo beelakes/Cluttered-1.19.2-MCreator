@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/nightstandknickknacks",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/nightstandknickknackstext",
+    "particle": "luphieclutteredmod:blocks/nightstandknickknackstext",
+    "2": "luphieclutteredmod:blocks/nightstandknickknackstext"
+  },
+  "render_type": "cutout"
+}

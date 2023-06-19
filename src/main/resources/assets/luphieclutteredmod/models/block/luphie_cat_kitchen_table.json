@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/catkitchentable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/catkitchentabletext",
+    "particle": "luphieclutteredmod:blocks/catkitchentabletext",
+    "0": "luphieclutteredmod:blocks/catkitchentabletext"
+  },
+  "render_type": "solid"
+}

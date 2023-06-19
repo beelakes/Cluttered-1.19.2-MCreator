@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/whitecounter",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/whitecountertext",
+    "particle": "luphieclutteredmod:blocks/whitecountertext",
+    "0": "luphieclutteredmod:blocks/whitecountertext"
+  },
+  "render_type": "solid"
+}

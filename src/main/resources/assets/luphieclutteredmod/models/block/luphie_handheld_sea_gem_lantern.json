@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/seagemlantern",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/seagemlanterntext",
+    "particle": "luphieclutteredmod:blocks/seagemlanterntext",
+    "0": "luphieclutteredmod:blocks/seagemlanterntext"
+  },
+  "render_type": "cutout"
+}

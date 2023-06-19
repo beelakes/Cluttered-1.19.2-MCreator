@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/nightstand",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/nightstand",
+    "particle": "luphieclutteredmod:blocks/nightstand",
+    "0": "luphieclutteredmod:blocks/nightstand"
+  },
+  "render_type": "solid"
+}

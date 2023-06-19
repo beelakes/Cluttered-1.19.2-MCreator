@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/imperialchair",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/imperialchairtext",
+    "particle": "luphieclutteredmod:blocks/imperialchairtext",
+    "0": "luphieclutteredmod:blocks/imperialchairtext"
+  },
+  "render_type": "solid"
+}

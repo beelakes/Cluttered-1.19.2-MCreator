@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/amethyst_endtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/amethyst_endtable",
+    "particle": "luphieclutteredmod:blocks/amethyst_endtable",
+    "0": "luphieclutteredmod:blocks/amethyst_endtable"
+  },
+  "render_type": "solid"
+}

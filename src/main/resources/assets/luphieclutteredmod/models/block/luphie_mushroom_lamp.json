@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/mushroomlamp",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/mushroomlamptext",
+    "particle": "luphieclutteredmod:blocks/mushroomlamptext",
+    "1": "luphieclutteredmod:blocks/mushroomlamptext"
+  },
+  "render_type": "solid"
+}

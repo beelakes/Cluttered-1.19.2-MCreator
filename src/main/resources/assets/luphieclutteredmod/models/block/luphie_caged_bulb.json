@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/caged_bulb",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/caged_bulb",
+    "particle": "luphieclutteredmod:blocks/caged_bulb",
+    "0": "luphieclutteredmod:blocks/caged_bulb"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/black_endtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/black_endtable",
+    "particle": "luphieclutteredmod:blocks/black_endtable",
+    "0": "luphieclutteredmod:blocks/black_endtable"
+  },
+  "render_type": "solid"
+}

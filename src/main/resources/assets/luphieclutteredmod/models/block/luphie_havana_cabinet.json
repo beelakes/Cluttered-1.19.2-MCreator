@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/havanacabinet",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/havanacabinet",
+    "particle": "luphieclutteredmod:blocks/havanacabinet",
+    "0": "luphieclutteredmod:blocks/havanacabinet"
+  },
+  "render_type": "cutout"
+}

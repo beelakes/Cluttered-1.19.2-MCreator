@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/key",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/keytext",
+    "particle": "luphieclutteredmod:blocks/keytext",
+    "0": "luphieclutteredmod:blocks/keytext"
+  },
+  "render_type": "cutout"
+}

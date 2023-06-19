@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:blocks/green_log_top",
+    "up": "luphieclutteredmod:blocks/green_log_top",
+    "north": "luphieclutteredmod:blocks/green_log_side",
+    "east": "luphieclutteredmod:blocks/green_log_side",
+    "south": "luphieclutteredmod:blocks/green_log_side",
+    "west": "luphieclutteredmod:blocks/green_log_side",
+    "particle": "luphieclutteredmod:blocks/green_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/tallsketchbookstack",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/tallsketchbookstacktext",
+    "particle": "luphieclutteredmod:blocks/tallsketchbookstacktext",
+    "0": "luphieclutteredmod:blocks/tallsketchbookstacktext"
+  },
+  "render_type": "solid"
+}

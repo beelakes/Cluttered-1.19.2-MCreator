@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/potionshelf",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/potionshelftext",
+    "particle": "luphieclutteredmod:blocks/potionshelftext",
+    "0": "luphieclutteredmod:blocks/potionshelftext"
+  },
+  "render_type": "translucent"
+}

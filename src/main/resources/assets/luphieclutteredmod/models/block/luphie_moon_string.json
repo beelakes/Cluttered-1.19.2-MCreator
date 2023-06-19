@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/moonstring",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/moonstring",
+    "particle": "luphieclutteredmod:blocks/moonstring",
+    "0": "luphieclutteredmod:blocks/moonstring"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/flatmushroom",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/flatmushroomtext",
+    "particle": "luphieclutteredmod:blocks/flatmushroomtext",
+    "0": "luphieclutteredmod:blocks/flatmushroomtext"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/officebox",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/officeboxtext",
+    "particle": "luphieclutteredmod:blocks/officeboxtext",
+    "0": "luphieclutteredmod:blocks/officeboxtext"
+  },
+  "render_type": "solid"
+}

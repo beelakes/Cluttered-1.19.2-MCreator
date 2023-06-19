@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pinkspoolofthread",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pinkspoolofthreadtext",
+    "particle": "luphieclutteredmod:blocks/pinkspoolofthreadtext",
+    "0": "luphieclutteredmod:blocks/pinkspoolofthreadtext"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:blocks/flowerypinkplankstext",
+    "up": "luphieclutteredmod:blocks/flowerypinkplankstext",
+    "north": "luphieclutteredmod:blocks/floweringpinkbookshelfretext",
+    "east": "luphieclutteredmod:blocks/floweringpinkbookshelfretext",
+    "south": "luphieclutteredmod:blocks/floweringpinkbookshelfretext",
+    "west": "luphieclutteredmod:blocks/floweringpinkbookshelfretext",
+    "particle": "luphieclutteredmod:blocks/flowerypinkplankstext"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pinkeftoutercornercounter",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pinkleftoutercornercountertext",
+    "particle": "luphieclutteredmod:blocks/pinkleftoutercornercountertext",
+    "0": "luphieclutteredmod:blocks/pinkleftoutercornercountertext"
+  },
+  "render_type": "solid"
+}

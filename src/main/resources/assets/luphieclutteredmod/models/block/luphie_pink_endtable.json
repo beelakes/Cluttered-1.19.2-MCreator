@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/pink_endtable",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/pink_endtable",
+    "particle": "luphieclutteredmod:blocks/pink_endtable",
+    "0": "luphieclutteredmod:blocks/pink_endtable"
+  },
+  "render_type": "solid"
+}

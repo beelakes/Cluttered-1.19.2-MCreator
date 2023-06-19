@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/blackglasscabinet",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/blackglasscabinettext",
+    "particle": "luphieclutteredmod:blocks/blackglasscabinettext",
+    "0": "luphieclutteredmod:blocks/blackglasscabinettext"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped",
+    "up": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped",
+    "north": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped",
+    "east": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped",
+    "south": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped",
+    "west": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped",
+    "particle": "luphieclutteredmod:blocks/bluepicnicblanketblocktextcropped"
+  },
+  "render_type": "solid"
+}

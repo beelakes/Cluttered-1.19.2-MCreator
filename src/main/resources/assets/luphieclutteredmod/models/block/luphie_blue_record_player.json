@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/bluerecordplayer",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/bluerecordplayertext",
+    "particle": "luphieclutteredmod:blocks/bluerecordplayertext",
+    "0": "luphieclutteredmod:blocks/bluerecordplayertext"
+  },
+  "render_type": "cutout"
+}

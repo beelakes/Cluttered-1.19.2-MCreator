@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/heartcake",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/heartcaketext",
+    "particle": "luphieclutteredmod:blocks/heartcaketext",
+    "0": "luphieclutteredmod:blocks/heartcaketext"
+  },
+  "render_type": "solid"
+}

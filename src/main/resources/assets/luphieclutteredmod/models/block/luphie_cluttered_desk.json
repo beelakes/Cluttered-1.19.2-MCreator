@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/clutteredbrowndesk",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/clutteredbrowndesktext",
+    "particle": "luphieclutteredmod:blocks/clutteredbrowndesktext",
+    "1": "luphieclutteredmod:blocks/clutteredbrowndesktext"
+  },
+  "render_type": "cutout"
+}

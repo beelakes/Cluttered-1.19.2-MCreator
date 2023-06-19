@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/hangingpotteryshelves",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/hangingpotteryshelvestext",
+    "particle": "luphieclutteredmod:blocks/hangingpotteryshelvestext",
+    "1": "luphieclutteredmod:blocks/hangingpotteryshelvestext"
+  },
+  "render_type": "cutout"
+}

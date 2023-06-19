@@ -1,0 +1,9 @@
+{
+  "parent": "luphieclutteredmod:custom/yellowinnercornercabinet",
+  "textures": {
+    "all": "luphieclutteredmod:blocks/yellowinnercornercabinettext",
+    "particle": "luphieclutteredmod:blocks/yellowinnercornercabinettext",
+    "0": "luphieclutteredmod:blocks/yellowinnercornercabinettext"
+  },
+  "render_type": "cutout"
+}
